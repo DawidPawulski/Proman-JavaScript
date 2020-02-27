@@ -13,8 +13,6 @@ Created to practice:
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
-* [Team](#team)
-* [Contact](#contact)
 
 ## General info
 Proman:
