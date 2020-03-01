@@ -1,5 +1,5 @@
 ## Proman
-JavaScript | Python | PostgreSQL | CSS | HTML.
+JavaScript | Python | REST API | PostgreSQL | CSS | HTML.
 One-pager task manager, concept based on Trello.
 
 Created to practice:
@@ -25,6 +25,7 @@ Proman:
 * Flask
 * Postgresql
 * JavaScript
+* REST API
 * html, css, bootstrap
 
 ## Setup
